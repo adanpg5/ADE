@@ -4,6 +4,7 @@
 
 # Máquina servidor.
 
+* hola
 
 * Vamos al enlace de descarga de la página oficial.
 
