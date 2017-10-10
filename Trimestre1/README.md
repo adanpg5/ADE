@@ -58,7 +58,7 @@
 
 * Vamos a `Options File` y tenemos que activar la opción de **Bind-Address** para poder tener conexión desde el cliente.
 
-![imagen](./img/c18.PNG)
+![imagen](./img/C18.PNG)
 
 <hr>
 
