@@ -4,11 +4,9 @@
 
 # Máquina servidor.
 
-* hola
-
 * Vamos al enlace de descarga de la página oficial.
 
-![imagen](./img/c1.PNG)
+![imagen](./img/c1.png)
 
 * Descargamos el **.msi** que nos corresponda.
 
