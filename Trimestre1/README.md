@@ -6,7 +6,7 @@
 
 * Vamos al enlace de descarga de la página oficial.
 
-![imagen](./img/c1.PNG)
+![imagen](./img/C1.PNG)
 
 * Descargamos el **.msi** que nos corresponda.
 
