@@ -41,7 +41,7 @@
 
 ![imagen](./img/c8.PNG)
 
-* Directorio servicio/proceso demonio y fichero de configuración del servidor y ubicación.
+* Directorio servicio/proceso demonio.
 
 ![imagen](./img/c9.PNG)
 
@@ -58,5 +58,9 @@
 ![imagen](./img/c12.PNG)
 
 * Usuario propietario: **MySQL**.
+
+* Fichero de configuración del servidor y ubicación.
+
+![imagen](./img/c13.PNG)
 
 <hr>
