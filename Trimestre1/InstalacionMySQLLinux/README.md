@@ -57,4 +57,6 @@
 
 ![imagen](./img/c12.PNG)
 
+* Usuario propietario: **MySQL**.
+
 <hr>
