@@ -46,10 +46,10 @@ quick                     #Copia de datos
 
 
 * Usa el comando "SHOW VARIABLES" para conocer el valor de todas las variables y enviar el resultado a un fichero.
-  * ![img](./img/c000013.png)
+  * ![img](./img/000013.png)
 
 * Repite lo anterior para mostrar solo las variables relacionadas con el motor "InnoDB".
-  * ![img](./img/c000014.png)
+  * ![img](./img/000014.png)
 
 * Para gestionar variables tenemos, como hemos visto, el comando SHOW "comando":
   * cómo mostrar todos los motores de almacenamiento
@@ -67,19 +67,19 @@ quick                     #Copia de datos
   * Varias variables de estado proporcionan recuentos de declaraciones. Para determinar el número de sentencias ejecutadas, use estas relaciones. El servidor MySQL mantiene muchas variables de estado que proporcionan información sobre su funcionamiento.
 
 * Usa el comando "SHOW STATUS" para conocer el valor de todas las variables..
-  * ![img](./img/c000015.png)
+  * ![img](./img/000015.png)
 
 * Haz que uno o más de tus compañeros se conecte a tu servidor (puede que por cuestión de permisos no os podáis conectar).
-  * ![img](./img/c000016.png)
+  * ![img](./img/000016.png)
 
 * Comprueba quién está conectado usando el comando correspondiente (Pista: es un comando visto SHOW XYZ).
-  * ![img](./img/c000017.png)
+  * ![img](./img/000017.png)
 
 * Intenta desconectarlo con el comando "kill"
-  * ![img](./img/c000018.png)
+  * ![img](./img/000018.png)
 
 * ¿Cuántas consultas se están ejecutado hasta el momento en tu servidor MYSQL? ¿Y si se trata de consultas lentas?
-  * ![img](./img/c000019.png)
+  * ![img](./img/000019.png)
 
 * Un estado informa  el sobre el máximo de conexiones concurrentes que se ha dado en la sesión de trabajo. ¿Cuál es?
-  * ![img](./img/c000020.png)
+  * ![img](./img/000020.png)
