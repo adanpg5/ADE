@@ -2,7 +2,7 @@
 
 ---
 
-## 1 Fichero de opciones
+## Fichero de opciones
 
 * Haz la lectura de la siguiente página "Using Option Files" http://dev.mysql.com/doc/refman/5.7/en/option-files.html
 
@@ -61,6 +61,8 @@ quick                     #Copia de datos
   * cómo conocer todas las tablas que están abiertas
     * show open tables
 
+---
+
 ## Variables de estado.
 
 * Define qué son las variables de estado.
@@ -83,3 +85,28 @@ quick                     #Copia de datos
 
 * Un estado informa  el sobre el máximo de conexiones concurrentes que se ha dado en la sesión de trabajo. ¿Cuál es?
   * ![img](./img/000020.png)
+
+---
+
+## Variables dinámicas.
+
+* Detalla los posibles atributos que tendría una variable de servidor como "port".
+  * Variable Scope = Global
+  * Dynamic Variable = No
+  * Type = INT
+  * Default = 3306
+  * Min Value = 0
+  * Max Value = 65535
+
+* ¿Cómo podemos saber si una variable es dinámica o no?
+  * Si el campo **Dynamic Variable** está *Sí/No*.
+
+* ¿Qué hace la variable "uptime"?
+  * Tiempo de sesión del servidor.
+  * Indica su valor en tu servidor
+    * 5064
+  * ¿Es posible modificar su valor con comando SET?
+    * No
+
+* Localiza la variable que establece el límite de conexiones concurrentes. ¿Cuál es?
+    * `max_connect_error`
