@@ -2,7 +2,7 @@
 
 * Ejecuta MySQL Workbench y activar la base de datos 'Jardinería'. En caso de que no dispongas de ella, puedes generarla con el script SQL que hay en el moodle. Abrir una nueva ventana de consulta y realizar las siguientes acciones mediante órdenes SQL.
 
-  ```python
+```python
 CREATE DATABASE IF NOT EXISTS `jardineria` DEFAULT CHARACTER SET latin1;
 
 USE `jardineria`;
@@ -907,7 +907,7 @@ INSERT INTO Pagos VALUES (38,'PayPal','ak-std-000026','2006-05-26',1171);
 ```
 
 *  Crear un usuario llamado “alumno” que tenga acceso a las tablas CLIENTES, EMPLEADOS, PRODUCTOS desde cualquier lugar.
-
+  * wfsdf
 
 *  Crear un usuario llamado “profesor” que tenga permiso de lectura a toda la base de datos desde localhost.
 
