@@ -907,19 +907,19 @@ INSERT INTO Pagos VALUES (38,'PayPal','ak-std-000026','2006-05-26',1171);
 ```
 
 *  Crear un usuario llamado “alumno” que tenga acceso a las tablas CLIENTES, EMPLEADOS, PRODUCTOS desde cualquier lugar.
-  * wfsdf
+  *
 
 *  Crear un usuario llamado “profesor” que tenga permiso de lectura a toda la base de datos desde localhost.
-
+  *
 
 *  Comprueba la creación y las características de estos nuevos usuarios consultando la tabla mysql.user.
-
+  *
 
 *  Establecer nuevas conexiones a la instancia de BD con los usuarios 'alumno' y 'profesor' y comprobar sus niveles de acceso respectivo sobre las diferentes tablas de la BD 'jardineria'.
-
+  *
 
 *  Modifica la contraseña de 'alumno'. Comprobar la conexión con la nueva contraseña.
-
+  * 
 
 *  Modifica el host desde donde pueda acceder el alumno a una dirección IP determinada (del propio servidor o un cliente). Soluciona los problemas que pueda presentar esta modificación.
 
